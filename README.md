@@ -1,11 +1,8 @@
 # AsyncSignalHandler for FlexUnit and as3Signals
 
-AsyncSignalHandler is a utility for working with as3Signals in FlexUnit. 
-
-# Whats included
-AsyncSignalHandler is used to handle [Test(async)] type test methods in
-FlexUnit, giving you easy access to the signal's dispatched arguments
-via an instance of AsyncSignalHandlerEvent.
+AsyncSignalHandler is a utility for working with as3Signals in FlexUnit. AsyncSignalHandler is 
+used to handle [Test(async)] type test methods in FlexUnit, giving you easy access to the 
+signal's dispatched arguments via an instance of AsyncSignalHandlerEvent.
 
 Classes
 ----------
